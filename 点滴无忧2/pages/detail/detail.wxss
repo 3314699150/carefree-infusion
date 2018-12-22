@@ -1,0 +1,15 @@
+/* pages/detail/detail.wxss */
+.explain{
+  margin-left: 35%;
+  margin-top:11%;
+  font-size: 15pt;
+      
+}
+.picture{
+  width:100%;
+  height:15ch;
+  margin-top:10%;
+}
+
+
+

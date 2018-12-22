@@ -1,0 +1,13 @@
+<!--pages/detail/detail.wxml-->
+
+<view class="explain"><text>一号瓶</text>
+<view  >{{condition[1]}}</view></view>
+<view class="explain"><text>二号瓶</text>
+<view>{{condition[2]}}</view></view>
+<view class="explain"><text>三号瓶</text>
+<view>{{condition[3]}}</view></view>
+<view class="explain"><text>四号瓶</text>
+<view>{{condition[3]}}</view></view>
+<view class="explain"><text>五号瓶</text>
+<view>{{condition[3]}}</view></view>
+<image src="/images/images.png" class="picture"></image>
